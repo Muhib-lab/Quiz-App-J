@@ -1,0 +1,14 @@
+body {
+  background-color: #353535;
+}
+.question {
+  background-color: #84a98c;
+  
+}
+#resultParent {
+  display: none;
+}
+
+/* .backgroundDark{
+  background-color:rgba(#84a98c,0.5) ;
+} */
